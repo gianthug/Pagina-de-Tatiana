@@ -1,2 +1,5 @@
 # Pagina-de-Tatiana
-prueba de pagina web
+para probar la pagina web
+ingresa a este link: 
+
+        https://gianthug.github.io/Pagina-de-Tatiana/
